@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-abstract class Shape(){
+public abstract class Shape(){
     Integer x;
-        }
+    Integer y;
+}
