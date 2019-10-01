@@ -4,3 +4,5 @@ public abstract class Shape {
     Integer x;
     Integer y;
 }
+
+class Triangle extends Shape{}
